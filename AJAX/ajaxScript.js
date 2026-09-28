@@ -16,7 +16,7 @@ function getMsg() {
 
     //STEP 2: Prepare the type of request and what to 
     //request from the server
-    ajaxRequest.open('GET', 'response.html', true);
+    ajaxRequest.open('GET', 'content.html', true);
 
     //STEP 3: Defines the AJAX response callback method that
     //established whether the response was successful and where
